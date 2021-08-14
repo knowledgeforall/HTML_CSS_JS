@@ -1,0 +1,62 @@
+body {
+    
+}
+.bg {
+    background-image:  url(media/marvel.0.1430832763.jpg);
+    background-size: cover;
+}/*https://cdn.vox-cdn.com/thumbor/qeCVy0tnvkXkfIC7RgI0L_tzJmU=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13722808/marvel.0.1430832763.jpg*/
+.centertitle {
+    position: relative;
+    left: 550px;
+}
+.marvelcard {
+    width: auto;
+}
+.card {
+    width: 300px;
+    height: 515px;
+    text-align: center;
+}
+.cardtext {
+    position: absolute;
+    bottom: 100px;
+    text-align: center;
+}
+.listtext {
+    position: absolute;
+    bottom: 40px;
+    text-align: left;
+}
+.p {
+    font-size:  15px;
+    padding: 10px;
+    background-blend-mode:exclusion;
+}
+.blend {
+    background-blend-mode: exclusion;
+}
+.left {
+    position: absolute;
+    left: 50px;
+}
+.center {
+    position: absolute;
+    left: 800px;
+    top: 335px;
+}
+.right {
+    position: absolute;
+    right: 50px;
+    top: 335px
+}
+.cardborder {
+border-style: solid;
+border-width: 10px 10px 30px 10px;
+border-image: url(media/800px-MarvelLogo.svg.png) 322 10;
+border-image: url(media/800px-MarvelLogo.svg.png) 322 10 300 10;
+border-image: url(media/800px-MarvelLogo.svg.png) 322 10 300 10;
+border-image: url(media/800px-MarvelLogo.svg.png) 10 10 300 10 repeat repeat;
+}/*https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/800px-MarvelLogo.svg.png*/
+.thr3d {
+  box-shadow: 40px 60px 17px rgba(0,0,0,0.5);
+}

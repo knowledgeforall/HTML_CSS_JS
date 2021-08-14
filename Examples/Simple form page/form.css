@@ -1,0 +1,32 @@
+body {
+
+}
+.bg {
+    background-image: url(media/faces.jpg);
+}/*https://thumbs-prod.si-cdn.com/6NF3MvzMtg6LtyRtVsmdx7hqtaw=/fit-in/1600x0/https://public-media.si-cdn.com/filer/c4/78/c478194d-6ed8-476d-8c76-d10d155a107d/faces.jpg*/
+.label {
+    display: inline-block;
+    width: 100px;
+}
+.form {
+    width: 20%;
+    height: 200px;
+    margin: auto;
+    background: black;
+    padding: 25px;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+.button {
+    text-align: center;
+    color: blue;
+}
+.feedback {
+    width: 30%;
+    height: 100px;
+    background: black;
+    margin: auto;
+    color: white;
+    padding: 25px;
+}

@@ -1,0 +1,47 @@
+.bg {
+    background-image: url(media/Night-Sky.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat:repeat-y;
+    background-size: cover;
+}/**https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2019/12/Night-Sky.jpg**/
+.hiddenmercury {
+    display: none;
+}
+.hiddenvenus {
+    display:none;
+}
+.hiddenearth {
+    display: none;
+}
+.hiddenmars {
+    display: none;
+}
+.display {
+    width: 1000px;
+}
+.txtdisplay {
+    color: white;
+    font-size: large;
+    font-weight: 900;
+    font-family: fantasy;
+    letter-spacing: 3px;
+}
+.imgborder {
+    border-style: ridge;
+    border-color: white;
+    border-width: 10px;
+}
+.buttonposition {
+    margin-left: 25%;
+}
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 50px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

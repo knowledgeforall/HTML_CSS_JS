@@ -1,0 +1,46 @@
+.bg {
+    background-color:darkblue;
+}
+.center {
+    width: 50%;
+    margin-left: 35%;
+    padding: 1px;
+}
+.chickenbreast {
+    width: 32.575%;
+    float: left;
+}
+.piccatacooking {
+   width: 32.575%;
+    float: left;
+}
+.piccataserved {
+   width: 32.575%;
+    float: left;
+}
+.text {
+    height: auto;
+    width: auto;
+    color: white;
+    font-family: cursive;
+    
+}
+.whtbg {
+    height: auto;
+    width: auto;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+    opacity: 70%;
+}
+.tblborders {
+    border-style: ridge;
+    border-width:thick;
+    border-color: bisque;
+}
+.imgborders {
+    border-style: ridge;
+    border-width:thick;
+    border-color: bisque;
+    margin: 2px;
+}

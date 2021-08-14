@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en"
+      class="bg">
+    
+    <head>
+        <!--Paul Polsinelli-->
+        <meta charset="utf-8">
+        <title>Form</title>
+        <link href="form.css" type="text/css" rel="stylesheet" />
+        <script src="js/form.js"></script>
+    </head>
+    
+    <body onload="myFunc()">
+        <form class="form">
+            <div>
+                <label class="label" for="firstname">First Name</label>
+                <input id="firstname" type="text" name="fname" size="15" maxlength="30" />
+            </div>
+            <br>
+            <div>
+                <label class="label" for="lastname">Last Name</label>
+                <input id="lastname" type="text" name="lname" size="15" maxlength="30" />
+            </div>
+            <br>
+            <div>
+            <label class="label" for="age">Age</label>
+                <input id="age" type="text" name="age" size="15" maxlength="3" />
+            </div>
+            <br>
+            <input id="submit" class="button" type="submit" value="Submit Info"/>
+        </form>
+        <div class="form">
+            <p><span id="displayfirstname"> </span></p>
+            <p><span id="displaylastname"></span></p>
+            <p><span  id="displayage"></span></p>
+        </div>
+    </body>
+    
+</html>

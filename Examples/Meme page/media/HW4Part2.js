@@ -1,0 +1,12 @@
+var name;
+var year;
+var reason;
+var sentence;
+name = "Distracted Boyfriend";
+reason = "it is so applicable in so many situations where someone is being stupid by wanting something without considering the consequences of their actions.  The look of idiocy on his face and his blindess to the girl he's with's 'what the hell' expression is pricelessly comical.";
+year = "2019";
+sentence = "The first time I saw " + memeName + " was in " + year + " and I like it because " + reason;
+var memeSentence = document.getElementById("sentence");
+memeSentence.innerHTML = sentence;
+var memeName = document.getElementById("name");
+memeName.textContent = memeName;

@@ -1,0 +1,55 @@
+.body {
+    background-image: url(media/tenor.gif);
+}/*https://media.tenor.com/images/1200dcbf5c2606b5de0b482eb05e8f6d/tenor.gif*/
+.memeimg {
+    width: 100%;
+    
+}
+.centervert {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.center {
+    width: 50%;
+    margin: auto;
+    padding: 1px;
+}
+.whitebg {
+    background-color: white;
+    width: auto;
+    opacity: 0.9}
+.textcenter {
+    text-align: center;
+}
+.h1 {
+    font-family: cursive;
+    color: mediumpurple;
+    text-decoration: underline;
+    text-decoration-color:blueviolet;
+    text-decoration-style:double;
+    letter-spacing: 10px;
+    padding: 10px;
+    margin: 20px;
+    border-width: 10px;
+    border-style: groove;
+    border-color: #9370db;
+}
+.img {
+    border-width: 10px;
+    border-style: groove;
+    border-color: #9370db;
+}
+.p1 {
+    height: ;
+    width: auto;
+    border-width: 10px;
+    border-style: groove;
+    border-color: #9370db;
+    padding: 10px;
+    margin: 20px;
+    color: #9370db;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    text-align: center;
+    font-family: monospace;
+}
