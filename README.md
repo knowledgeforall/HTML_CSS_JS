@@ -1,2 +1,2 @@
-# HTML_CSS_JS_Project
+# HTML_CSS_JS
  Move to Scotland website
