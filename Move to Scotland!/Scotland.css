@@ -1,0 +1,238 @@
+.body1 {
+    background-image: url(media/1827_Finley_Map_of_Scotland_-_Geographicus_-_Scotland-finley-1827.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;}/*https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A1827_Finley_Map_of_Scotland_-_Geographicus_-_Scotland-finley-1827.jpg&psig=AOvVaw0awo8J-lt-EcR3Kx0mvP2g&ust=1591679279005000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCetca58ekCFQAAAAAdAAAAABAD*/
+.body2 {
+    background-image: url(media/Scottish%20jobs.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;}/*https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F297793%2FEuro_Truck_Simulator_2__Scottish_Paint_Jobs_Pack%2F&psig=AOvVaw2YAzVHq4BHNGnYbpLX2YoR&ust=1591679090794000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDEuOq48ekCFQAAAAAdAAAAABAE*/
+.body3 {
+    background-image: url(media/homes%20in%20Scotland.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;}/*https://images.mansionglobal.com/im-108000?size=1.5005861664712778&width=1280*/
+.body4 {
+    background-image: url(media/st-leonards-school-2019-_-print-version-1-mid-res.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;}/*https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tatler.com%2Fschool%2Fst-leonards-tatler-school-guide&psig=AOvVaw0UDBeNVht_I9QkUvL98zSX&ust=1591679419113000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi8j4a68ekCFQAAAAAdAAAAABAD*/
+.body5 {
+    background-image: url(media/Scottish%20Pets.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;}/*https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cpccares.com%2Fblog%2Fscottish-dog-breeds%2F&psig=AOvVaw3MlRlAVER54lQWc66nalLH&ust=1591679458869000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjVtpm68ekCFQAAAAAdAAAAABAD*/
+.media {
+
+}
+.imageborder {
+    border-style: ridge;
+    border-width: 1px;
+    border-color: black;
+}
+.fountaincastle {
+position: absolute;
+margin-top: 7.5%;
+margin-left: 10%;
+margin-right: auto;
+  }
+.fountaincastlesize {
+    width: 660px;
+}
+.flagsize {
+    width: 660px;
+}
+.flagtext {
+    position: absolute;
+    text-align: center;
+    bottom: 125px;
+    left: 170px;
+    font-size: 50px;
+    font-weight: 900;
+    color: bisque;
+    text-decoration: black;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+.jobs {
+    position: absolute;
+    margin-top: 685px;
+    margin-left: 193px;
+    width: 37%;}
+.housing {
+    position: absolute;
+    margin-top: 685px;
+    margin-left: 1000px;
+    width: 35%;}
+.schools {
+    position: absolute;
+    margin-top: 1050px;
+    margin-left: 193px;
+    width: 35%;}
+.pets {
+    position: absolute;
+    margin-top: 1050px;
+    margin-left: 1000px;
+    width: 35%;}
+.centertext {
+    display: block;
+    margin-left: 25%;
+    margin-right: auto;
+    width: 50%;
+    text-align: left;
+    font-size: 200%;
+    background-color: #ffffff;
+    opacity: 0.8;
+    }
+.centertextpage {
+    display: block;
+    margin-left: 25%;
+    margin-right: auto;
+    width: 50%;
+    text-align: left;
+    font-size: 200%;
+    background-color: lightsteelblue;
+    opacity: 0.6;}
+.maintitle {
+    position: absolute;
+    margin-left: 59%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 17%;
+    width: %;
+    text-align:center;
+    font-size: 200%;
+    color:bisque;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    }
+.maintitle1 {
+    position: absolute;
+    margin-left: 93%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 17%;
+    width: %;
+    text-align:center;
+    font-size: 200%;
+    color:bisque;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    }
+.sidenav {
+    height: auto;
+    width: auto;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+    opacity: 0.9;
+}
+.whitebg {
+    background-color: white;
+    width: 10%;
+    opacity: 0.9}
+.flag {
+    width:auto;
+}
+.flaglink {
+  opacity: 1.0;
+}
+.flaglink:hover {
+  opacity: 0.8;
+}
+.thr3d {
+  box-shadow: 40px 60px 17px rgba(0,0,0,0.5);
+}.anthemvideo {
+    position: absolute;
+    margin-left: 50px;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 1450px;
+    width: 100%;
+}
+.bagpipes {
+    position: absolute;
+    margin-left: 800px;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 1700px;
+    width: 40%;
+}
+.anthem {
+    position: absolute;
+    margin-left: 50px;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 1750px;
+    width: 100%;
+}
+.office {
+    position: absolute;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    width: 25%;
+}
+.postal {
+    position: absolute;
+    margin-left: 65%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 10%;
+    width: 30%;
+}
+.city {
+    position: absolute;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    width: 30%;
+}
+.house {
+    position: absolute;
+    margin-left: 65%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 200px;
+    width: 30%;
+}
+.tblborders {
+    border-style: ridge;
+    border-width:thick;
+    border-color: #000000;
+}
+.mailto {
+    position: absolute;
+    margin-left: 800px;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 2150px;
+    width: 40%;
+    font-size: 295%;
+    color:bisque;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+}
+.footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
